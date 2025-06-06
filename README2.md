@@ -64,7 +64,14 @@
 ---
 
 ## 📊 GitHub Stats
-
+<td width="30%" valign="top">
+  <h2>🌐 Connect</h2>
+  <a href="https://www.linkedin.com/in/visal-pov-891444296/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <br/><br/>
+  <a href="https://t.me/Visal_2024063" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=poVvisal&style=for-the-badge&color=brightgreen" />
+</td>
 
 ---
 
