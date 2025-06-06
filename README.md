@@ -28,20 +28,6 @@
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **My debugging is 70% spiritual and 30% logical.**
 
----
-
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/visal-pov-891444296/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://t.me/Visal_2024063" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-</p>
-
----
 
 ## 🛠️ Languages & Tools
 
