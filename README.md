@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/6e8d6fc1-345d-41ff-b598-43ac159d9b3d)![image](https://github.com/user-attachments/assets/015eef6e-7f4c-4dad-a7f3-89dc492435ad)# Pov-Visal
+# Pov-Visal
 🚀About ME
 
 <p align="center">
