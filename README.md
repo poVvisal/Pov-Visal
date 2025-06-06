@@ -12,7 +12,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=3397F7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Always+Learning+New+Things;Based+in+Phnom+Penh" alt="Typing SVG" /></a>
 </p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=BDF7F2&background=7C8D9300&width=550&lines=Hello%2C+I'm+under+the+water%2C+Please+help+me" alt="Typing SVG" /></a>
+
 
 ## 🙋‍♂️ About Me
 - 🔭 I’m currently working on **ABCD**
@@ -41,6 +41,7 @@
   </p>
 
 ---
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=BDF7F2&background=7C8D9300&width=700&lines=Hello%2C+I'm+under+the+water%2C+Please+help+me" alt="Typing SVG" /></a>
 
 ## 📊 My GitHub Stats
 <p align="center">
